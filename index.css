@@ -306,4 +306,25 @@ input[type="text"]
     background-color: #444;
 }
 
+/* FOOTER */
 
+footer
+{
+    height: 260px;
+    background-color: #444;
+}
+
+footer h1
+{
+    color: #fff;
+    text-align:center;
+    padding-top: 90px;
+}
+
+.copyright
+{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 30px;
+    color: #fff;
+}
